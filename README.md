@@ -168,19 +168,3 @@ From your Windows 10 VM, attempt to issue your VM a new IP address from the comm
 Open PowerShell as admin and run: ipconfig /renew
 
 Observe the DHCP traffic appearing in WireShark
-
-</p>
-<br />
-
-<p>
-
-<p>
-<img width="779" alt="image" src="https://github.com/user-attachments/assets/9d606761-5f5a-4efd-8c1e-f3901d48ab2c" />
-
-</p>
-<p>
-Use Remote Desktop to connect to your Windows 10 Virtual Machine. Within your Windows 10 Virtual Machine, Install Wireshark.
-</p>
-<br />
-
-<p>
